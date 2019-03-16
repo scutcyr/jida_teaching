@@ -6,3 +6,7 @@
   [点击下载:第1章 绪论.ppt](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shujvku/%E7%AC%AC1%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.ppt)
 ## [第2章](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shujvku/%E7%AC%AC2%E7%AB%A0%20%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93.ppt)
   [点击下载:第2章 关系数据库.ppt](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shujvku/%E7%AC%AC2%E7%AB%A0%20%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93.ppt)
+## [第3章]()
+  [点击下载:第3章 关系数据库标准语言SQL-part1.ppt](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shujvku/%E7%AC%AC2%E7%AB%A0%20%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93.ppt)
+  [点击下载:第3章 关系数据库标准语言SQL-part2.ppt](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shujvku/%E7%AC%AC2%E7%AB%A0%20%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93.ppt)
+  [点击下载:第3章 关系数据库标准语言SQL-part3.ppt](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shujvku/%E7%AC%AC2%E7%AB%A0%20%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93.ppt)
