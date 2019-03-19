@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="doc/shuliangfangfa/allennlp-logo-dark.png" /></p>
+<p align="center"><img width="60%" src="https://github.com/scutcyr/jida_teaching/blob/master/shuliangfangfa/shuliangfangfa.png" /></p>
 
 # [数量方法](https://github.com/scutcyr/jida_teaching/tree/master/shuliangfangfa)
 - 这是暨南大学数量方法的课件
