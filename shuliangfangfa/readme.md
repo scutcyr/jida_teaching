@@ -11,5 +11,5 @@
 ## [其他资料](https://github.com/scutcyr/jida_teaching/tree/master/shuliangfangfa)
 - [点击下载:数量方法-真题](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shuliangfangfa/%E6%95%B0%E9%87%8F%E6%96%B9%E6%B3%95-%E7%9C%9F%E9%A2%98.rar)
 - [点击下载:数量方法二考试重要公式](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shuliangfangfa/%E6%95%B0%E9%87%8F%E6%96%B9%E6%B3%95%E4%BA%8C%E8%80%83%E8%AF%95%E9%87%8D%E8%A6%81%E5%85%AC%E5%BC%8F.doc)
-- [点击下载:数量方法二全部公式]()
+- [点击下载:数量方法二全部公式](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shuliangfangfa/%E6%95%B0%E9%87%8F%E6%96%B9%E6%B3%95%E4%BA%8C%E5%85%A8%E9%83%A8%E5%85%AC%E5%BC%8F.doc)
 - [点击下载:《数量方法(二)》(代码00994)自学考试复习提纲-附件1]()
