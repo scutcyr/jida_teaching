@@ -9,3 +9,7 @@
   - [点击下载Teamviewer](https://tv-static-net.oss-cn-beijing.aliyuncs.com/download/tv14/TeamViewer_Setup.exe)
   
   - [点击使用草料二维码](https://cli.im/url)
+  
+  - [点击使用在线PS](https://www.uupoop.com/)
+  
+  - [点击使用三秒抠图](https://www.gaoding.com/koutu?hmsr=ps_menu)
