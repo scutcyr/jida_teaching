@@ -17,3 +17,5 @@
   - [点击使用问卷星](https://www.wjx.cn/)
   
   - [点击学习安装MATLAB2014](https://mp.weixin.qq.com/s/_5ob6wJChbFXmz4UKO3KKw)
+  
+  - [点击进入MATLAB教程](https://ww2.mathworks.cn/help/matlab/getting-started-with-matlab.html)
