@@ -15,3 +15,5 @@
   - [点击使用三秒抠图](https://www.gaoding.com/koutu?hmsr=ps_menu)
   
   - [点击使用问卷星](https://www.wjx.cn/)
+  
+  - [点击学习安装MATLAB2014](https://mp.weixin.qq.com/s/_5ob6wJChbFXmz4UKO3KKw)
