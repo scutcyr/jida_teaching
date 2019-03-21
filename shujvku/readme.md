@@ -1,6 +1,7 @@
 # [计算机网络](https://github.com/scutcyr/jida_teaching/tree/master/shujvku)
 - 这是暨南大学计算机网络的课件
 - 使用课本：数据库系统概论
+- [自学网站](https://www.51zxw.net/list.aspx?cid=492)
 <p align="center"><img width="40%" src="https://github.com/scutcyr/jida_teaching/blob/master/shujvku/shujvjku.png" /></p>
 
 ## [第1章](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shujvku/%E7%AC%AC1%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.ppt)
