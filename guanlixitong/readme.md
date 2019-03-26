@@ -2,6 +2,9 @@
 - 这是暨南大学管理系统中的计算机应用的课件
 - 使用课本：管理系统中的计算机应用
 - [自学网站](https://www.51zxw.net/list.aspx?cid=492)
+
+<p align="center"><img width="40%" src="https://github.com/scutcyr/jida_teaching/blob/master/guanlixitong/guanlixitong.png" /></p>
+
 - [SQL Sever2008安装教程](https://mp.weixin.qq.com/s/I6tS1hQzOOJYj5Cf2Wfraw)
 - SQL Server 2008（32/64位）下载地址：
 -- 链接：https://pan.baidu.com/s/1eR5bAme 
@@ -9,7 +12,7 @@
 - SQL Server 2008R2（32/64位）下载地址：
 -- 链接: https://pan.baidu.com/s/1o8huYUI 
 -- 密码: dqff
-<p align="center"><img width="40%" src="https://github.com/scutcyr/jida_teaching/blob/master/guanlixitong/guanlixitong.png" /></p>
+
 
 ## [00051管理系统中计算机应用复习资料](https://github.com/scutcyr/jida_teaching/blob/master/guanlixitong/00051%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E4%B8%AD%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%BA%94%E7%94%A8%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99.doc)
 [点击下载：00051管理系统中计算机应用复习资料](https://github.com/scutcyr/jida_teaching/raw/master/guanlixitong/00051%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E4%B8%AD%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%BA%94%E7%94%A8%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99.doc)
