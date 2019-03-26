@@ -7,9 +7,9 @@
 ### [绘制决策树](https://www.canva.com/zh_cn/graphs/decision-trees/)
 - 试着以自己的生活当中的某个决策，绘制决策树：
 参考步骤：
--- 1、分析待决策项；
--- 2、分析影响因素以及各自影响的占比；
--- 3、绘制决策树。
+- 1、分析待决策项；
+- 2、分析影响因素以及各自影响的占比；
+- 3、绘制决策树。
 绘图网站：https://www.canva.com/zh_cn/graphs/decision-trees/
 
 ### [数据分析](https://github.com/scutcyr/jida_teaching/blob/master/shuliangfangfa/readme.md)
