@@ -12,7 +12,7 @@
 -- 3、绘制决策树。
 绘图网站：https://www.canva.com/zh_cn/graphs/decision-trees/
 
-### [数据分析]
+### [数据分析](https://github.com/scutcyr/jida_teaching/blob/master/shuliangfangfa/readme.md)
 数据来源：http://data.stats.gov.cn/
 任务一：
 - [点击下载《1949-2016年中国各省市历年GDP数据汇总表》](https://github.com/scutcyr/jida_teaching/raw/master/shuliangfangfa/1949-2016%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%90%84%E7%9C%81%E5%B8%82%E5%8E%86%E5%B9%B4GDP%E6%95%B0%E6%8D%AE%E6%B1%87%E6%80%BB%E8%A1%A8.xlsx)
@@ -21,6 +21,8 @@
 - 绘制广东省1949年到2016年的GDP的散点图；
 - 利用该表格求我国1949年到2016年的GDP；
 - 绘制我国1949年到2016年的GDP的折线图；
+- 确定每一年GDP排名第一的省或市；
+- 确定每一年GDP排名倒数第一的省或市；
 
 ## [本书课件](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shuliangfangfa/%E6%95%B0%E9%87%8F%E6%96%B9%E6%B3%95.pdf)
 - [在线观看](https://github.com/scutcyr/jida_teaching/blob/master/shuliangfangfa/%E6%95%B0%E9%87%8F%E6%96%B9%E6%B3%95.pdf)  
