@@ -2,6 +2,7 @@
 - 这是暨南大学计算机系统结构的课件
 - 使用课本：计算机系统结构
 - 课余乐趣：[微软计算器](https://github.com/Microsoft/calculator)
+- 课余探索：[汇编入门——DOSBox0.74-win32-installer](https://github.com/scutcyr/jida_teaching/raw/master/jisuanjixitongjiegou/DOSBox0.74-win32-installer.exe)
 - 课余学习：利用github搭建个人主页
 - 示例1：[我的简历](https://scutcyr.github.io/)
         [实现源码](https://github.com/scutcyr/scutcyr.github.io)
