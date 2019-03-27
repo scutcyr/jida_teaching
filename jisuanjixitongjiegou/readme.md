@@ -4,7 +4,7 @@
 - 课余乐趣：[微软计算器](https://github.com/Microsoft/calculator)
 - 课余学习：利用github搭建个人主页
 - 示例1：[我的简历](https://scutcyr.github.io/)
--       [实现源码](https://github.com/scutcyr/scutcyr.github.io)
+        [实现源码](https://github.com/scutcyr/scutcyr.github.io)
 - 示例2：[莫凡python教程](https://morvanzhou.github.io/)
         [实现源码](https://github.com/MorvanZhou/morvanzhou.github.io)
 
