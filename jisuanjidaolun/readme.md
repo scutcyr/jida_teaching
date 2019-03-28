@@ -6,6 +6,16 @@
 ## 实践资料
 - [git for windows](https://desktop.github.com/)
 
+## 第1次作业
+- 创建个人git账号，建立1个repository
+- 创建个人CSDN账号，写一个技术博客，例如介绍MARKDOWN的使用
+- 加分项：利用git创建个人主页或者博客，参考：https://scutcyr.github.io/
+
+## 第2次作业
+### 调研报告
+- 调研网络结构、写一份word报告，要求图、表、文并茂，页数大于15页
+- 调研最新的人工智能技术进展，写一份PPT,要求PPT页数在25页左右，要求PPT制作好看且有个人特色；
+
 ### [数据分析](https://github.com/scutcyr/jida_teaching/blob/master/shuliangfangfa/readme.md)
 数据来源：http://data.stats.gov.cn/
 任务一：
