@@ -15,6 +15,9 @@
 - 密码: 2sas
 - [安装教程](https://mp.weixin.qq.com/s?__biz=MzIwMjE1MjMyMw%3D%3D&idx=3&mid=2650199365&sn=5c9377865ea83614aea8b96c9f858164)
 
+## html编程
+- [学习网站](http://www.runoob.com/html/html-tutorial.html)
+
 ## 第1次作业
 - 创建个人git账号，建立1个repository
 - 创建个人CSDN账号，写一个技术博客，例如介绍MARKDOWN的使用
