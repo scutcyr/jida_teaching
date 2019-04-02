@@ -9,12 +9,10 @@
 
 ### visio 2010
 - 下载地址
-Visio2010 64位下载地址：
-pan.baidu.com/s/1KbO5zRkT8PGioTPwbuRgbg 
-密码：p8u2
-Visio2010 32位下载地址：
-pan.baidu.com/s/1Vk4OuLBhK893Aro5GORKLA 
-密码: 2sas
+- [点击下载Visio2010 64位](https://pan.baidu.com/s/1KbO5zRkT8PGioTPwbuRgbg) 
+- 密码：p8u2
+- [点击下载Visio2010 32位](https://pan.baidu.com/s/1Vk4OuLBhK893Aro5GORKLA)
+- 密码: 2sas
 - [安装教程](https://mp.weixin.qq.com/s?__biz=MzIwMjE1MjMyMw%3D%3D&idx=3&mid=2650199365&sn=5c9377865ea83614aea8b96c9f858164)
 
 ## 第1次作业
