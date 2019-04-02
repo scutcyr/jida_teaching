@@ -6,8 +6,9 @@
 <p align="center"><img width="40%" src="https://github.com/scutcyr/jida_teaching/blob/master/guanlixitong/guanlixitong.png" /></p>
 
 - [SQL Sever2008安装教程](https://mp.weixin.qq.com/s/I6tS1hQzOOJYj5Cf2Wfraw)
-- 安装过程报出的错误解决方案
-需要重新启动计算机.必须重新启动计算机才能安装 SQL Server
+- 安装过程报出的错误解决方案：
+- 报错：需要重新启动计算机.必须重新启动计算机才能安装 SQL Server
+- 解决办法：
 在开始运行中输入: regedit
 找到HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SessionManager 
 在右边窗口找到PendingFileRenameOperations删除即可
