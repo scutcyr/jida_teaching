@@ -4,7 +4,18 @@
 <p align="center"><img width="40%" src="https://github.com/scutcyr/jida_teaching/blob/master/jisuanjiwangluo/jisuanjjiwangluo.png" /></p>
 
 ## 实践资料
+### git for windows
 - [git for windows](https://desktop.github.com/)
+
+### visio 2010
+- 下载地址
+Visio2010 64位下载地址：
+pan.baidu.com/s/1KbO5zRkT8PGioTPwbuRgbg 
+密码：p8u2
+Visio2010 32位下载地址：
+pan.baidu.com/s/1Vk4OuLBhK893Aro5GORKLA 
+密码: 2sas
+- [安装教程](https://mp.weixin.qq.com/s?__biz=MzIwMjE1MjMyMw%3D%3D&idx=3&mid=2650199365&sn=5c9377865ea83614aea8b96c9f858164)
 
 ## 第1次作业
 - 创建个人git账号，建立1个repository
@@ -14,6 +25,10 @@
 ## 第2次作业
 ### 调研报告
 - 调研网络结构、写一份word报告，要求图、表、文并茂，页数大于15页
+
+## 第3次作业
+- 下载并安装visio2010
+- 使用visio2010完成课本234页的实验2
 
 ## 课件下载
 
