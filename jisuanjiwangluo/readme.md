@@ -17,6 +17,7 @@
 
 ## html编程
 - [学习网站](http://www.runoob.com/html/html-tutorial.html)
+- [下载Sublime Text](http://www.sublimetext.com/)
 
 ## 第1次作业
 - 创建个人git账号，建立1个repository
