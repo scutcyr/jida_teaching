@@ -50,4 +50,22 @@
   - [点击下载:计算机导论-EXCEL使用技巧](https://github.com/scutcyr/jida_teaching/raw/master/jisuanjidaolun/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA-EXCEL%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7.pdf)
   
 ## [第12章](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shujvku/%E7%AC%AC1%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.ppt)
-  [点击下载:第12章 数据库绪论.ppt](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shujvku/%E7%AC%AC1%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.ppt)  
+-  [点击下载:第12章 数据库绪论.ppt](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shujvku/%E7%AC%AC1%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.ppt)  
+- [自学网站](https://www.51zxw.net/list.aspx?cid=492)
+- [SQL Sever2008安装教程](https://mp.weixin.qq.com/s/I6tS1hQzOOJYj5Cf2Wfraw)
+- SQL Server 2008（32/64位）下载地址：
+-- 链接：https://pan.baidu.com/s/1eR5bAme 
+-- 密码：f3bh
+### [SQL2000简单基础入门教程](https://github.com/scutcyr/jida_teaching/blob/master/guanlixitong/SQL2000%E7%AE%80%E5%8D%95%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.doc)
+[点击下载：SQL2000简单基础入门教程](https://github.com/scutcyr/jida_teaching/raw/master/guanlixitong/SQL2000%E7%AE%80%E5%8D%95%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.doc)
+
+
+## html网页编程
+- [学习网站](http://www.runoob.com/html/html-tutorial.html)
+- [下载Sublime Text](http://www.sublimetext.com/)  
+
+### [网络工程](https://github.com/scutcyr/jida_teaching/blob/master/jisuanjiwangluo/%E7%AC%AC1%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%861.pdf)
+  - [点击下载: 网络工程基础知识.pdf](https://github.com/scutcyr/jida_teaching/raw/master/jisuanjiwangluo/%E7%AC%AC1%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%861.pdf)
+
+  
+  
