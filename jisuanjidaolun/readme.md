@@ -15,7 +15,7 @@
 ### 调研报告
 - 调研网络结构、写一份word报告，要求图、表、文并茂，页数大于15页
 - 调研最新的人工智能技术进展，写一份PPT,要求PPT页数在25页左右，要求PPT制作好看且有个人特色；
-
+## 第3次作业
 ### [数据分析](https://github.com/scutcyr/jida_teaching/blob/master/shuliangfangfa/readme.md)
 数据来源：http://data.stats.gov.cn/
 任务一：
