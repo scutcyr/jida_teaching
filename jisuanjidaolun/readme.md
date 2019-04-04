@@ -49,4 +49,5 @@
 ## [计算机导论-EXCEL使用技巧](https://github.com/scutcyr/jida_teaching/blob/master/jisuanjidaolun/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA-EXCEL%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7.pdf)
   - [点击下载:计算机导论-EXCEL使用技巧](https://github.com/scutcyr/jida_teaching/raw/master/jisuanjidaolun/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA-EXCEL%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7.pdf)
   
-  
+## [第12章](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shujvku/%E7%AC%AC1%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.ppt)
+  [点击下载:第12章 数据库绪论.ppt](https://raw.githubusercontent.com/scutcyr/jida_teaching/master/shujvku/%E7%AC%AC1%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.ppt)  
