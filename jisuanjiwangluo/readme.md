@@ -40,8 +40,16 @@
 ### [第2章](https://github.com/scutcyr/jida_teaching/blob/master/jisuanjiwangluo/%E7%AC%AC2%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E8%A7%84%E5%88%92%E4%B8%8E%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90.pdf)
   - [点击下载:第2章 网络规划与需求分析.pdf](https://github.com/scutcyr/jida_teaching/raw/master/jisuanjiwangluo/%E7%AC%AC2%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E8%A7%84%E5%88%92%E4%B8%8E%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90.pdf)
   
+### [第3章](https://github.com/scutcyr/jida_teaching/blob/master/jisuanjiwangluo/%E7%AC%AC3%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1.pdf)
+  - [点击下载:第3章 网络逻辑设计.pdf](https://github.com/scutcyr/jida_teaching/raw/master/jisuanjiwangluo/%E7%AC%AC3%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1.pdf)
   
- 
+### [第4章](https://github.com/scutcyr/jida_teaching/blob/master/jisuanjiwangluo/%E7%AC%AC4%E7%AB%A0%20%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%BB%9C%E8%AE%BE%E8%AE%A1.pdf)
+  - [点击下载:第4章 高性能网络设计.pdf](https://github.com/scutcyr/jida_teaching/raw/master/jisuanjiwangluo/%E7%AC%AC4%E7%AB%A0%20%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%BB%9C%E8%AE%BE%E8%AE%A1.pdf)
+  
+### [第5章](https://github.com/scutcyr/jida_teaching/blob/master/jisuanjiwangluo/%E7%AC%AC5%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.pdf)
+  - [点击下载:第5章 网络安全结构设计.pdf](https://github.com/scutcyr/jida_teaching/raw/master/jisuanjiwangluo/%E7%AC%AC5%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.pdf)
+  
+
 ## 其他资料 
   - [点击下载Teamviewer](https://tv-static-net.oss-cn-beijing.aliyuncs.com/download/tv14/TeamViewer_Setup.exe)
   
