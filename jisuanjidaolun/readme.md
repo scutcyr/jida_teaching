@@ -6,6 +6,10 @@
 ## 实践资料
 - [git for windows](https://desktop.github.com/)
 
+### 网页编程
+- [学习网站](http://www.runoob.com/html/html-tutorial.html)
+- [下载Sublime Text](http://www.sublimetext.com/)
+
 ## 第1次作业
 - 创建个人git账号，建立1个repository
 - 创建个人CSDN账号，写一个技术博客，例如介绍MARKDOWN的使用
