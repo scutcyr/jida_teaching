@@ -69,8 +69,10 @@
 - [下载Sublime Text](http://www.sublimetext.com/) 
 - [点击下载：网页制作.pdf](https://github.com/scutcyr/jida_teaching/raw/master/guanlixitong/SQL2000%E7%AE%80%E5%8D%95%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.doc)
 
-### [网络工程](https://github.com/scutcyr/jida_teaching/blob/master/jisuanjiwangluo/%E7%AC%AC1%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%861.pdf)
+## [网络工程](https://github.com/scutcyr/jida_teaching/blob/master/jisuanjiwangluo/%E7%AC%AC1%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%861.pdf)
   - [点击下载: 网络工程基础知识.pdf](https://github.com/scutcyr/jida_teaching/raw/master/jisuanjidaolun/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C.pdf)
 
-  
+## 编程入门
+python3学习网站：https://www.runoob.com/python3/python3-tutorial.html
+
   
