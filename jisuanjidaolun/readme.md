@@ -31,12 +31,12 @@
 - 确定每一年GDP排名第一的省或市；
 - 确定每一年GDP排名倒数第一的省或市；
 ## 第4次作业
-第一步：安装python3.6
-第二步：打开终端，方法：在开始菜单的搜索框输入cmd，回车，进入终端界面，输入：pip install itchat，等待安装，成功即可！
-第三步：编程实现以下功能：
-文件名：姓名拼音_loginweixin.py。例如：chenyirong_loginweixin.py
-用python登录微信并且统计自己的好友当中的性别比例！
-参考以下教程：
+- 第一步：安装python3.6
+- 第二步：打开终端，方法：在开始菜单的搜索框输入cmd，回车，进入终端界面，输入：pip install itchat，等待安装，成功即可！
+- 第三步：编程实现以下功能：
+- 文件名：姓名拼音_loginweixin.py。例如：chenyirong_loginweixin.py
+- 用python登录微信并且统计自己的好友当中的性别比例！
+- 参考以下教程：
 https://www.cnblogs.com/jiaoyu121/p/6944398.html
 
 ## [第1章](https://github.com/scutcyr/jida_teaching/blob/master/jisuanjidaolun/%E7%AC%AC1%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8E%E6%95%B0%E6%8D%AE.pdf)
