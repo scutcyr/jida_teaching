@@ -36,7 +36,7 @@
 ## [第6章](https://github.com/scutcyr/jida_teaching/blob/master/shujvku/%E7%AC%AC6%E7%AB%A0%20%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E7%90%86%E8%AE%BA.pptx)
   [点击下载:第6章 关系数据理论.pptx](https://github.com/scutcyr/jida_teaching/raw/master/shujvku/%E7%AC%AC6%E7%AB%A0%20%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E7%90%86%E8%AE%BA.pptx)
   
-## [第7章]
+## [第7章](https://github.com/scutcyr/jida_teaching/blob/master/shujvku/%E7%AC%AC7%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1-part1.ppt)
   [点击下载:第7章 数据库设计-part1.ppt](https://github.com/scutcyr/jida_teaching/raw/master/shujvku/%E7%AC%AC7%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1-part1.ppt)
   
   [点击下载:第7章 数据库设计-part2.ppt](https://github.com/scutcyr/jida_teaching/raw/master/shujvku/%E7%AC%AC7%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1-part2.ppt)
