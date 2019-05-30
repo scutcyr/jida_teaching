@@ -13,6 +13,18 @@
 -- 链接: https://pan.baidu.com/s/1o8huYUI 
 -- 密码: dqff
 
+## 大作业
+<p>1、创建SQL查询命令文件，命名为姓名拼音，例如chenyirong.sql</p>
+<p>2、使用CREATE DATABASE创建学生课程数据库：stdtb，主文件命名为stdtb_data，初始大小10MB，最大为100MB，日志文件命名为stdtb_log，初始大小5MB；参考链接：https://www.51zxw.net/show.aspx?id=39019&cid=492</p>
+<p>3、使用CREATE LOGIN创建登录名和密码，登录名和密码要求为姓名拼音，例如chenyirong；参考链接：https://www.51zxw.net/show.aspx?id=39127&cid=492</p>
+<p>4、使用CREATE USER创建用户usr1，usr2，usr3；参考链接：https://www.51zxw.net/show.aspx?id=39127&cid=492</p>
+<p>5、在stdtb数据库当中建立三张基本表：<br>
+  	学生表：Student(Sno,Sname,Ssex,Sage,Sdept)<br>
+    课程表：Course(Cno,Cname,Cpno,Ccredit)<br>
+    学生选课表：SC(Sno,Cno,Grade)<br>
+<p>
+
+
 ## 实践资料
 - [git for windows](https://desktop.github.com/)
 
