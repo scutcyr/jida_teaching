@@ -22,7 +22,13 @@
   	学生表：Student(Sno,Sname,Ssex,Sage,Sdept)<br>
     课程表：Course(Cno,Cname,Cpno,Ccredit)<br>
     学生选课表：SC(Sno,Cno,Grade)<br>
-<p>
+</p>
+<p>使用INSERT分别插入以下数据<br>
+| 一个普通标题 | 一个普通标题 | 一个普通标题 |
+| ------ | ------ | ------ |
+| 短文本 | 中等文本 | 稍微长一点的文本 |
+| 稍微长一点的文本 | 短文本 | 中等文本 |
+</p>
 
 
 ## 实践资料
